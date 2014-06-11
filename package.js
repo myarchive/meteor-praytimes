@@ -3,6 +3,6 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
-    api.use("client");
-    api.add_files("praytimes.js", "client");
+    api.use();
+    api.add_files("praytimes.js");
 });
