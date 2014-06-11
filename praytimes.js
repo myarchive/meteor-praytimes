@@ -567,11 +567,9 @@ var DMath = {
 		a = a- b* (Math.floor(a/ b));
 		return (a < 0) ? a+ b : a;
 	}
-}
+};
 
 
 //---------------------- Init Object -----------------------
 
-
-prayTimes = new PrayTimes();
-
+this.prayTimes = new PrayTimes();
