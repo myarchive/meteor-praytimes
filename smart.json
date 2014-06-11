@@ -1,0 +1,8 @@
+{
+    "name": "praytimes",
+    "description": "Islamic prayer times calculation",
+    "homepage": "https://github.com/alisalaah/meteor-praytimes",
+    "author": "Ali Camarata  (http://alicamarata.com)",
+    "version": "1.0.0",
+    "git": "https://github.com/alisalaah/meteor-praytimes.git"
+}
