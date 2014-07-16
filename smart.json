@@ -3,6 +3,6 @@
     "description": "Islamic prayer times calculation",
     "homepage": "https://github.com/alisalaah/meteor-praytimes",
     "author": "Ali Camarata  (http://alicamarata.com)",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "git": "https://github.com/alisalaah/meteor-praytimes.git"
 }
