@@ -87,7 +87,7 @@ function PrayTimes(method) {
 			params: { fajr: 18, isha: 17 } },
 		ISNA: {
 			name: 'Islamic Society of North America (ISNA)',
-			params: { fajr: 15, isha: 15 } },
+			params: { fajr: 17.5, isha: 15 } }, // Fajr was 15 (incorrectly)
 		Egypt: {
 			name: 'Egyptian General Authority of Survey',
 			params: { fajr: 19.5, isha: 17.5 } },
